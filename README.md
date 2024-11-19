@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Omasta-Parisot
+- prénom : Ethan
+- URL Netlify : https://glowing-flan-343aa6.netlify.app
 
 # Travail
 
